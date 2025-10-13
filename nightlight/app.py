@@ -11,7 +11,7 @@ led = GroveLed(107)
 while True:
     light = light_sensor.light
     print('Light level:', light)
-    if light < 300:
+    if light < 106:
         led.on()
     else:
         led.off()
