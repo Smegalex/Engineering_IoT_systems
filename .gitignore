@@ -182,3 +182,5 @@ cython_debug/
 
 *.mkv
 *.mp4
+*.pem
+*.vscode
